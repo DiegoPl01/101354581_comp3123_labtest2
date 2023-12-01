@@ -1,3 +1,12 @@
+// Postman Request
+
+![Alt text](<src/SS Output/Captura de pantalla 2023-11-30 195532.png>)
+
+// Application on web browser
+
+![Alt text](<src/SS Output/Captura de pantalla 2023-11-30 195707.png>)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
